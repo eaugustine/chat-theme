@@ -1,6 +1,6 @@
 /* Specify size for thread links */
 .threadlink {
-    font-size: 8px;
+    font-size: 10px;
 }
 
 /* Reduce left and right margins in the chat area */
@@ -46,7 +46,7 @@
 
 /* Sidebar "recent" or "starred" section names text size */
 .aOHsTc {
-    font-size: 16px;
+    font-size: 18px;
     margin-left: 16px;
 }
 
@@ -60,7 +60,7 @@
 
 /* Search Menu "frequent" section text color and size */
 .wAR34c {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 /* Padding height between messages in a thread */
@@ -241,7 +241,7 @@ img {
     height: 100px;
 }
 .kmatHb { /* text */
-    font-size: 12px;
+    font-size: 16px;
     line-height: 13px;
 }
 .SXFjfb { /* text container */

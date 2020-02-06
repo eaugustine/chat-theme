@@ -4,19 +4,19 @@
 }
 /* Global Background color */
 .Bl2pUd {
-    background-color: #212121;
+    background-color: #000000;
 }
 /* Global background color in private messages */
 .WQKmIb .Bl2pUd, .WQKmIb .byY7Yb {
-    background-color: #2d2d2d;
+    background-color: #222222;
 }
 /* Global background color in room preview */
 .x7DKme {
-    background-color: #212121 !important;
+    background-color: #000000 !important;
 }
 /* Global background color in search results */
 .pWhTUc {
-    background-color: #212121 !important;
+    background-color: #000000 !important;
 }
 
 /* Title in private messages */
@@ -30,7 +30,7 @@
 
 /* Topbar background color */
 .QTQg5e {
-    background: #212121;
+    background: #000000;
     border-bottom: 1px solid #6a6a6a;
 }
 /* Topbar left button text color */
@@ -44,23 +44,23 @@
 }
 /* Thread boxes colors */
 .dsoUjb {
-    background-color: #2d2d2d;
+    background-color: #222222;
     border: solid 1px #4a4a4a;
 }
 .oGsu4 {
-    background-color: #2d2d2d;
+    background-color: #222222;
 }
 .nF6pT.FwR7Pc .iKCcE, .hu21Y:hover {
     background-color: #3f3f3f;
 }
 .XbbXmb.zzVqCe .nF6pT, .jGyvbd .jO0Dzb {
-    background-color: #2d2d2d;
+    background-color: #222222;
 }
 
 /* Thread boxes in pm */
 .WQKmIb .dsoUjb {
-    background-color: #2d2d2d !important;
-    border: solid 1px #2d2d2d !important;
+    background-color: #222222 !important;
+    border: solid 1px #222222 !important;
 
 }
 
@@ -75,7 +75,7 @@
 /* Load more messages button in search results */
 .taQuBe {
     color: #fff;
-    background-color: #2d2d2d;
+    background-color: #222222;
 }
 
 /* Topbar members button */
@@ -85,7 +85,7 @@
 
 /* Topbar in room preview */
 .oPqlY {
-    background-color: #2d2d2d !important;
+    background-color: #222222 !important;
 }
 
 /* Edit/react/delete buttons on message */
@@ -93,7 +93,7 @@
     fill: #fff;
 }
 .eWw5ab {
-    background-color: #2d2d2d;
+    background-color: #222222;
     border: solid 1px #5f5f5f;
 }
 .MbhUzd {
@@ -139,7 +139,7 @@
 /* Follow button color */
 .zxHSSc {
     color: #EEBE67;
-    background-color: #2d2d2d;
+    background-color: #222222;
     border: solid 1px #3f3f3f;
 }
 .yg4pvb::before {
@@ -161,7 +161,7 @@
 
 /* Answer box background color */
 .vmpzOc {
-    background-color: #2d2d2d;
+    background-color: #222222;
 }
 /* Cursor and text input color */
 .oAzRtb {
@@ -184,7 +184,7 @@
 
 /* New thread button */
 .SfqTBc {
-    background-color: #2d2d2d;
+    background-color: #222222;
 }
 .aVw1Ob {
     color: #fff;
@@ -195,7 +195,7 @@
 
 /* New thread box */
 .XganBc {
-    background-color: #2d2d2d;
+    background-color: #222222;
     border: solid 1px #5f5f5f;
 }
 .p9Cqzd { /* exit cross */
@@ -213,7 +213,7 @@
     color: #fff !important;
 }
 .CjSwue {
-    background-color: #2d2d2d !important;
+    background-color: #222222 !important;
 }
 /* Join button */
 .W32wZ {
@@ -227,7 +227,7 @@
 
 /* Sidebar color and border */
 .X9KLPc {
-    background-color: #2d2d2d;
+    background-color: #222222;
     border-right: solid 1px #6a6a6a;
 }
 
@@ -305,7 +305,7 @@
 
 /* Top left corner section (with title) background color and border */
 .Riuhhf {
-    background-color: #212121;
+    background-color: #000000;
     border-right: solid 1px #6a6a6a;
     border-bottom: solid 1px #6a6a6a;
 
@@ -372,7 +372,7 @@
 
 /* Link previews */
 .Pj9rof {
-    background-color: #2d2d2d;
+    background-color: #222222;
     border: 1px solid #6a6a6a;
 }
 .kmatHb, .hlrRUb {
@@ -380,7 +380,7 @@
     background: transparent;
 }
 .SXFjfb {
-    background-color: #2d2d2d;
+    background-color: #222222;
     border-top: 1px solid #6a6a6a;
 }
 
@@ -391,7 +391,7 @@
 
 /* Message suggestions */
 .T9VbLe {
-    background-color: #2d2d2d;
+    background-color: #222222;
     border: 1px solid #6a6a6a;
 }
 .ubzhQb {
@@ -400,7 +400,7 @@
 
 /* Emoji reactions */
 .dIC9Jb {
-    background-color: #2d2d2d;
+    background-color: #222222;
     border: 1px solid #6a6a6a;
 }
 .YK45Id {
